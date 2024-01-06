@@ -1,5 +1,5 @@
 % read image (replace imagepath with actual image path)
-image = imread("C:\\Users\\aidan\\CS420Lab5\\mickey-1.png");
+image = imread("C:\\Users\\aidan\\mickey-1.png");
 
 % convert image to greyscale
 if size(image, 3) == 3 
